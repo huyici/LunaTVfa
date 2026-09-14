@@ -1,5 +1,5 @@
 # Luna TV 配置编辑器（自用）
-https://qianqikun.github.io/LunaTV-config  
+https://123aayu.1996324.xyz.github.io/LunaTV-config  
 
 如果源不可用,一般都是被墙了,要使用代理才能使用 !  
 
